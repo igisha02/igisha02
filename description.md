@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Igor
+- 👀 I’m interested in games and cool apps
+- 🌱 I’m currently learning software engineering
+- 📫 You can reach me via mail.
